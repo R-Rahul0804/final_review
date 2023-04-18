@@ -6,3 +6,4 @@ opencv-python-headless==4.5.5.64
 streamlit
 streamlit_autorefresh
 streamlit_webrtc
+playsound
